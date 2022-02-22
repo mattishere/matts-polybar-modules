@@ -1,8 +1,8 @@
 ![title](media/title.png)
+## My collection of custom, though simple modules for [Polybar](https://github.com/polybar/polybar).
+
 ![example](media/allofthem.png)
 
-
-My collection of custom, though simple modules for [Polybar](https://github.com/polybar/polybar).
 <br><br><br><br><br>
 # Current Modules
 
