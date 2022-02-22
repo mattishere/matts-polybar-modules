@@ -14,6 +14,7 @@ My collection of custom, though simple modules for [Polybar](https://github.com/
 |[Repos](modules/repos)   |By using the [GitHub API](https://docs.github.com/en/rest), the module displays how many public repositories a chosen user has.
 |[Uptime](modules/uptime)  |Displays the current uptime of your system.
 |[User](modules/user)    |Displays the name of the currently logged-in user.
+
 <br><br>
 # Dependencies
 
