@@ -20,7 +20,7 @@
 
 All of the modules are made with **Bash**, however:
 
-modules vary in their dependencies. Most of them make use of **usually pre-installed tools** on Linux distributions. A good way to check if you have all of the dependencies of a script is by running the script itself - it should let you know if a command/tool is not found.
+modules vary in their dependencies. Most of them make use of **usually pre-installed tools** on Linux distributions, so I won't be listing them here. A good way to check if you have all of the dependencies of a script is by running the script itself - it should let you know if a command/tool is not found.
 <br><br><br><br>
 # Installation and setup
 - Let's start by installing your desired script. Go to the **modules** directory, and then find the directory of the module you'd like. Then, install the corresponding **.sh** file.
