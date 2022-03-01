@@ -11,6 +11,6 @@ PARTITION="/nvme0n1p6"
 PREFIX=$PARTITION
 
 
-# I found this solution on an online resource - we're making use of "df", "grep" and "awk" to fetch the percentile figure.
+# I found this solution online - we're making use of "df", "grep" and "awk" to fetch the percentile figure.
 # We then echo the output alongisde the prefix.
 echo $PREFIX $(df -hl | grep "$PARTITION" | awk '{print $5}')

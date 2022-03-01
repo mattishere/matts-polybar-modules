@@ -27,10 +27,10 @@ modules vary in their dependencies. Most of them make use of **usually pre-insta
 - After you've installed the script, move it to a location you'd like. I tend to put my custom modules into a directory inside of Polybar's .config *(e.g. `.config/polybar/scripts/`)*.
 - Now it's time to make the file executable. You can do this with **chmod**: `chmod +x /path/to/the/script.sh`.
 - **SUGGESTED:** Check if the module even works by running it - do `bash /path/to/the/script.sh`.
-- Now, it's time to **configurate** the module. Use an editor of your choice and open the script file. All of the modules are documented with comments to help you configure more easily.
+- Now it's time to **configure** the module. Use an editor of your choice and open the script file. All of the modules are documented with comments to help you configure more easily.
 - After a proper configuration, you can now add the module to the polybar config. You can find a `README.md` in every **module's directory**. It has a template for how to initialize the module in the Polybar config.
-- Now, all that's left to do is add the module to a bar! If you don't know how to do so, [this](https://github.com/polybar/polybar/wiki#where-to-start) is a great resource.
-- And that's it! Congrats, you have one of my custom modules :)
+- Now all that's left is adding the module to a bar! If you don't know how to do so, [this](https://github.com/polybar/polybar/wiki#where-to-start) is a great resource.
+- And that's it! Congrats, you now have one of my custom modules :)
 <br><br><br><br>
 # Creator's notes
 Hey! Thanks for checking out my little project! It's very simple, but I hope it does spark some ideas for a custom module of your own :)
